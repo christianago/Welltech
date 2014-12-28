@@ -41,3 +41,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+#IGNORE FOLDERS
+AN/
+dm/
+PDF_Application_Note/
+support/onlinedemo/
+support/voip/
+support/voip2/

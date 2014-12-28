@@ -1,0 +1,244 @@
+a:link {
+	color: #0099CC;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #0099CC;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #3366FF;
+}
+
+a:active {
+	color: #33CCFF;
+	text-decoration: none;
+}
+
+body {
+	font-family: "微軟正黑體", Verdana, Geneva, Arial, helvetica, sans-serif;
+	font-size: 14px;
+	background-color: #FFFFFF;
+	text-decoration: none;
+}
+
+/* ------------------------------text------------------------------ */
+
+.text_1_c {
+	font-family: "微軟正黑體", Verdana, Arial, Helvetica, sans-serif;
+	font-size: 30px;
+	font-weight: normal;
+	color: #222222;
+	margin-left: 10px;
+	line-height: 150%;	
+}
+.text_1_e {
+	font-family: Arial, Helvetica, sans-serif, Verdana ;
+	font-size: 30px;
+	font-weight: normal;
+	color: #222222;
+	margin-left: 10px;
+	line-height: 150%;	
+}
+.txt_2_c {
+	font-size: 24px;
+	color: #069;
+	line-height: 150%;	
+	font-family: "微軟正黑體", Verdana, Arial, Helvetica, sans-serif ;
+	margin-left: 10px;	
+}
+.txt_2_e {
+	font-size: 22px;
+	color: #069;
+	line-height: 150%;	
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	margin-left: 10px;	
+}
+.txt_3_c {
+	font-size: 16px;
+	color: #333333;
+	line-height: 180%;
+	font-family: "微軟正黑體", Verdana, Arial, Helvetica, sans-serif;
+}
+.txt_3_e {
+	font-size: 14px;
+	color: #222222;
+	line-height: 180%;	
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.txt_4_c {
+	font-size: 14px;
+	color: #222222;
+	line-height: 150%;	
+	font-family: "微軟正黑體", Verdana, Arial, Helvetica, sans-serif;
+}
+.txt_4_e {
+	font-size: 12px;
+	color: #222222;
+	line-height: 150%;	
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.txt_prd_c {
+	font-size: 12px;
+	color: #0070BB;
+    line-height: 200%;
+	font-family: "微軟正黑體", Verdana, Arial, Helvetica, sans-serif;
+}
+.txt_prd_e {
+	font-size: 12px;
+	color: #0070BB;
+    line-height: 200%;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.txt_new_e {
+	font-size: 10px;
+	color: #FF0000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+/* ------------------------------Border------------------------------ */
+
+.Border_1 {
+	border: 1px solid #8D8D8D;
+}
+.Border_d { 
+    border-width: 1px;
+    border-style:solid; 
+	border-color: #9a9a9a;
+}
+.menu_txt { 
+    background-color:#F4FAFF;
+    width:230px;
+}
+
+/* ------------------------------Banner------------------------------ */
+
+#banner-home{
+	margin:0;
+	padding:0;
+	width:983px;
+	height:309px;
+	overflow:hidden;
+	position:relative;
+}
+
+/* ------------------------------OLD---------------------------------- */
+.menu_left {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+}
+.menu_right {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #005B88;
+	font-size: 9px;
+	font-weight: bold;
+	text-decoration: none;
+	text-transform: none;
+}
+.menu_mru {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FF6600;
+}
+.main_news {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	text-transform: none;
+	line-height: 150%;
+	color: #000000;
+}
+.menu_mrd {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	text-decoration: none;
+	text-transform: none;
+	color: #005B88;
+}
+.menu_mrd2 {
+	font-size: 11px;
+	color: #005B88;
+	text-decoration: none;
+}
+.n_text {
+	font-size: 11px;
+	text-decoration: none;
+}
+.menu_mru_c {
+	font-size: 12px;
+	color: #FF6600;
+	font-family: "新細明體";
+}
+.menu_mrd2_c {
+	font-size: 12px;
+	font-family: Verdana, Arial, Helvetica, sans-serif, "????";
+	text-decoration: none;
+}
+.text_app1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #0099CC;
+}
+.H1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #FF6600;
+	margin-left: 10px;
+}
+.H1a {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #CC6600;
+	margin-left: 10px;
+}
+.text_normal {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 150%;
+	margin-left: 10px;
+}
+.H2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #0000FF;
+	margin-left: 10px;
+}
+.txt_R1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #2F6A8E;
+}
+.txt_R2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #808080;
+}
+.txt_R3 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #2F6A8E;
+}
+.txt_C1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #F38428;
+}
+.txt_C2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 150%;
+	color: #666666;
+}
+
+

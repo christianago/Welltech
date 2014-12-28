@@ -1,0 +1,240 @@
+<html>
+
+<head>
+<meta charset="UTF-8" />
+<meta name="GENERATOR" content="Microsoft FrontPage 12.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>IP PBX - Welltech VoIP Provider</title>
+<link href="css/main.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+<!--
+body {
+	background-color: #EFEFEF;
+}
+.style7 {color: #000000; font-size: 11px; font-weight: bold; }
+
+
+div[id*="_"]{
+	height: 18px;
+	margin-left: 20px;
+}
+-->
+</style></head>
+<script language="javascript">
+<!--
+
+var mWindowHandle;
+var mMenuIdSelected = "";  
+var wpt = null;
+
+function destroy()
+{
+  closeWindow();
+}
+
+function controlMenuExpandFold(id)
+{
+  if (mMenuIdSelected != "")
+    changeMenuCaptionColor(mMenuIdSelected, 1);
+
+  changeMenuCaptionColor(id, 2);
+  mMenuIdSelected = id;
+  
+  if (eval('window.document.all["' + id + 'Sub"].style.display == "none"'))
+  {
+    eval('window.document.images["' + id + 'Img"].src = "http://www.welltech.com/image/MenuFolderOpen.gif"');  
+    eval('window.document.all["' + id + 'Sub"].style.display = ""');  
+  }
+  else
+  {
+    eval('window.document.images["' + id + 'Img"].src = "http://www.welltech.com/image/MenuFolderClose.gif"');  
+    eval('window.document.all["' + id + 'Sub"].style.display = "none"');  
+  }  
+}
+
+
+function changeMenuCaptionColor(id, type)
+{
+  switch (type)
+  {
+    case 1:  
+      eval('window.document.all["' + id + 'Caption"].style.color = "black"');
+      eval('window.document.all["' + id + 'Caption"].style.backgroundColor = ""');
+      break;
+    case 2:  
+      eval('window.document.all["' + id + 'Caption"].style.color = "white"');
+      eval('window.document.all["' + id + 'Caption"].style.backgroundColor = "navy"');
+      break;
+    case 3:  
+      eval('window.document.all["' + id + 'Caption"].style.color = "black"');
+      eval('window.document.all["' + id + 'Caption"].style.fontStyle = "normal"');
+      break;
+    case 4:  
+      eval('window.document.all["' + id + 'Caption"].style.color = "red"');
+      eval('window.document.all["' + id + 'Caption"].style.fontStyle = "italic"');
+      break;
+    case 5:  
+      eval('window.document.all["' + id + 'Caption"].style.fontStyle = "normal"');
+      break;
+    case 6:  
+      eval('window.document.all["' + id + 'Caption"].style.fontStyle = "italic"');
+      break;      
+    default:
+      break;
+  }
+}
+
+
+function changeMenuCaptionMouseOverOut(id, type)
+{
+  if (mMenuIdSelected == id)
+    changeMenuCaptionColor(id, type + 2);
+  else
+    changeMenuCaptionColor(id, type);
+}
+
+//-->
+</script>
+</head>
+
+<body topmargin="0" leftmargin="0">
+<table border="0" width="150" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="180" height="15">
+          </td>
+        </tr>
+        <tr>
+          <td height="20" bgcolor="#C0C0C0"><p style="margin-left: 5; font-size: 11px;"><b>Catalogue</b></td>
+        </tr>
+        <tr>
+          <td height="29" bgcolor="#FFFFFF">
+		  <p style="margin-left: 5; height: 7px;">
+		  <a class="n_text" href="dm/VoIP_Poster.pdf" target="_top">
+		  <font color="#000000">VoIP_Poster (PDF)</font></a></td>
+  </tr>
+        <tr>
+          <td height="29" bgcolor="#FFFFFF">
+		  <p style="margin-left: 5; height: 8px;"> 
+		  <a class="n_text" href="dm/VoIP_Catalog.pdf" target="_top"> <font color="#000000">VoIP_Catalog (PDF)</font></a></td>
+        </tr>
+        <tr>
+          <td height="20"></td>
+        </tr>
+        <tr>
+          <td width="180" height="20" bgcolor="#C0C0C0">
+          <p style="margin-left: 5; font-size: 11px;"><b>VoIP Products</b>
+          </td>     
+        </tr>
+        <tr>
+          <td bgcolor="#FFFFFF">
+<div id="Menu1" style=""><span style="cursor:hand" onClick="controlMenuExpandFold('Menu1');" onMouseOver="changeMenuCaptionMouseOverOut('Menu1', 4);" onMouseOut="changeMenuCaptionMouseOverOut('Menu1', 3);"><img id="Menu1Img" src="image/MenuFolderClose.gif" align="absmiddle">&nbsp;<span class="style7" id="Menu1Caption">IP PBX</span></span></div>
+    <div id="Menu1Sub" style="display:none; font-size:10px; ">
+      <div id="Menu1_1"><a href="product_e_2a.php" target="_top">SIPPBX 6200S/GS/N</a></div>
+      <div id="Menu1_2"><a href="product_e_2c.php" target="_top">ePBX-100A-128</a></div>              
+    </div>
+</div>
+<div id="Menu2" style=""><span style="cursor:hand; " onClick="controlMenuExpandFold('Menu2');" onMouseOver="changeMenuCaptionMouseOverOut('Menu2', 4);" onMouseOut="changeMenuCaptionMouseOverOut('Menu2', 3);"><img id="Menu2Img" src="image/MenuFolderClose.gif" align="absmiddle">&nbsp;<span class="style7" id="Menu2Caption">IP Phone</span></span></div>
+    <div id="Menu2Sub" style="display:none; font-size:10px; ">
+    <div id="Menu2_1"><a href="product_e_03.php" target="_top">iP380</a></div>
+      <div id="Menu2_1"><a href="product_e_0u.php" target="_top">LP-803</a></div>
+      <div id="Menu2_1"><a href="product_e_0t.php" target="_top">LP-389</a></div>
+      <div id="Menu2_2"><a href="product_e_0g.php" target="_top">LP-399</a></div>
+	  <div id="Menu2_2"><a href="product_e_04.php" target="_top">LP-201</a></div>
+    </div>
+</div>
+<div id="Menu2" style=""></div>
+<div id="Menu3" style=""><span style="cursor:hand; " onClick="controlMenuExpandFold('Menu3');" onMouseOver="changeMenuCaptionMouseOverOut('Menu3', 4);" onMouseOut="changeMenuCaptionMouseOverOut('Menu3', 3);"><img id="Menu3Img" src="image/MenuFolderClose.gif" align="absmiddle">&nbsp;<span class="style7" id="Menu3Caption">VoIP Gateway</span></span></div>
+    <div id="Menu3Sub" style="display:none; font-size:10px; ">
+      <div id="Menu3_1"><a href="product_e_0o.php" target="_top">WellGate 2424O</a></div>    
+      <div id="Menu3_1"><a href="product_e_0k.php" target="_top">WellGate 2424S</a></div>
+      <div id="Menu3_1"><a href="product_e_0z.php" target="_top">WellGate 2522</a></div>      
+      <div id="Menu3_1"><a href="product_e_0w.php" target="_top">WellGate 2504</a></div>
+      <div id="Menu3_1"><a href="product_e_02.php" target="_top">WellGate 2504A</a></div>
+      <div id="Menu3_1"><a href="product_e_0x.php" target="_top">WellGate 2540</a></div>
+      <div id="Menu3_1"><a href="product_e_0b.php" target="_top">WellGate 2540A</a></div>
+      <div id="Menu3_2"><a href="product_e_0r.php" target="_top">WellGate 2644</a></div>
+	  <div id="Menu3_3"><a href="product_e_09.php" target="_top">WellGate 2608</a></div>
+	  <div id="Menu3_4"><a href="product_e_0p.php" target="_top">WellGate 2680</a></div>
+      <div id="Menu3_6"><a href="product_e_01.php" target="_top">WellGate 3504A</a></div>            
+      <div id="Menu3_9"><a href="product_e_0d.php" target="_top">ATA-17X</a></div>
+      <div id="Menu3_9"><a href="product_e_0a.php" target="_top">ATA-17Xplus</a></div>
+      <div id="Menu3_9"><a href="product_e_07.php" target="_top">ATA-17Xplus-PoE</a></div>              
+    </div>
+</div>
+    <div id="Menu4Sub" style="display:none; font-size:10px; ">
+      <div id="Menu4_1"><a href="product_e_0m.php" target="_top">WellGate 3512</a></div>
+	          
+    </div>
+</div>
+<div id="Menu6" style=""><span style="cursor:hand; " onClick="controlMenuExpandFold('Menu6');" onMouseOver="changeMenuCaptionMouseOverOut('Menu6', 4);" onMouseOut="changeMenuCaptionMouseOverOut('Menu6', 3);"><img id="Menu6Img" src="image/MenuFolderClose.gif" align="absmiddle">&nbsp;<span class="style7" id="Menu6Caption">Trunking Gateway</span></span></div>
+    <div id="Menu6Sub" style="display:none; font-size:10px; ">
+      <div id="Menu6_1"><a href="product_e_2f.php" target="_top">WellGate 5260</a></div>
+      <div id="Menu6_2"><a href="product_e_2g.php" target="_top">WellGate 5290</a></div>      
+       
+    </div>
+</div>
+<div id="Menu7" style=""><span style="cursor:hand; " onClick="controlMenuExpandFold('Menu7');" onMouseOver="changeMenuCaptionMouseOverOut('Menu7', 4);" onMouseOut="changeMenuCaptionMouseOverOut('Menu7', 3);"><img id="Menu7Img" src="image/MenuFolderClose.gif" align="absmiddle">&nbsp;<span class="style7" id="Menu7Caption">SIP Proxy Server</span></span></div>
+    <div id="Menu7Sub" style="display:none; font-size:10px; ">
+      <div id="Menu7_1"><a href="product_e_22.php" target="_top">WellSIP 6500</a></div>
+      <div id="Menu7_2"><a href="product_e_23.php" target="_top">WellSIP 6500-E</a></div>
+	  <div id="Menu7_2"><a href="product_e_2k.php" target="_top">WellSIP 6500B</a></div>      
+      <div id="Menu7_3"><a href="product_e_2i.php" target="_top">WellSIP 6550</a></div> 
+      <div id="Menu7_4"><a href="product_e_2j.php" target="_top">WellRTP 5100</a></div>
+    </div>
+</div>
+<div id="Menu8" style=""><span style="cursor:hand; " onClick="controlMenuExpandFold('Menu8');" onMouseOver="changeMenuCaptionMouseOverOut('Menu8', 4);" onMouseOut="changeMenuCaptionMouseOverOut('Menu8', 3);"><img id="Menu8Img" src="image/MenuFolderClose.gif" align="absmiddle">&nbsp;<span class="style7" id="Menu8Caption">Billing System</span></span></div>
+    <div id="Menu8Sub" style="display:none; font-size:10px; ">
+      <div id="Menu8_1"><a href="product_e_25.php" target="_top">WellBilling 6600</a></div>
+    </div>
+</div>
+<div id="Menu9" style=""><span style="cursor:hand; " onClick="controlMenuExpandFold('Menu9');" onMouseOver="changeMenuCaptionMouseOverOut('Menu9', 4);" onMouseOut="changeMenuCaptionMouseOverOut('Menu9', 3);"><img id="Menu9Img" src="image/MenuFolderClose.gif" align="absmiddle">&nbsp;<span class="style7" id="Menu9Caption">SBC</span></span></div>
+    <div id="Menu9Sub" style="display:none; font-size:10px; ">
+      <div id="Menu9_1"><a href="product_e_28.php" target="_top">WellBG 5800</a></div>
+    </div>
+</div>
+<div id="Menu11" style=""><span style="cursor:hand; " onClick="controlMenuExpandFold('Menu11');" onMouseOver="changeMenuCaptionMouseOverOut('Menu11', 4);" onMouseOut="changeMenuCaptionMouseOverOut('Menu11', 3);"><img id="Menu11Img" src="image/MenuFolderClose.gif" align="absmiddle">&nbsp;<span class="style7" id="Menu11Caption">IP Voice Mail</span></span></div>
+    <div id="Menu11Sub" style="display:none; font-size:10px; ">
+      <div id="Menu11_2"><a href="product_e_26.php" target="_top">IPCentx 6850GS</a></div>      
+    </div>
+</div>
+<div id="Menu15" style=""><span style="cursor:hand; " onClick="controlMenuExpandFold('Menu15');" onMouseOver="changeMenuCaptionMouseOverOut('Menu15', 4);" onMouseOut="changeMenuCaptionMouseOverOut('Menu15', 3);"><img id="Menu15Img" src="image/MenuFolderClose.gif" align="absmiddle">&nbsp;<span class="style7" id="Menu15Caption">IP Recorder</span></span></div>
+    <div id="Menu15Sub" style="display:none; font-size:10px; ">
+      <div id="Menu15_1"><a href="product_e_27.php" target="_top">WellRec 5600</a></div>
+    </div>
+</div>
+<div id="Menu16" style=""></div>
+<div id="Menu12" style=""><span style="cursor:hand; " onClick="controlMenuExpandFold('Menu12');" onMouseOver="changeMenuCaptionMouseOverOut('Menu12', 4);" onMouseOut="changeMenuCaptionMouseOverOut('Menu12', 3);"><img id="Menu12Img" src="image/MenuFolderClose.gif" align="absmiddle">&nbsp;<span class="style7" id="Menu12Caption">SIP IVR Server</span></span></div>
+    <div id="Menu12Sub" style="display:none; font-size:10px; ">
+      <div id="Menu12_1"><a href="product_e_24.php" target="_top">SIPivr 6800GS</a></div>
+    </div>
+</div>
+    <div id="Menu13Sub" style="display:none; font-size:10px; ">
+      <div id="Menu13_1"><a href="product_e_0n.php" target="_top">WPoES-8262</a></div>
+      
+    </div>
+</div>
+		  </td>
+        </tr>
+        <tr>
+          <td width="180" height="20">
+          </td>       
+        </tr>
+        <tr>
+          <td width="180" height="20" bgcolor="#C0C0C0">
+          <p style="margin-left: 5; font-size: 11px;"><b>VoIP Solution</b></td>
+        </tr>
+        <tr>
+          <td width="180" height="20" bgcolor="#FFFFFF">
+            <p style="margin-left: 5"><a class="n_text" href="product_e_31.php" target="_top"><font color="#000000">ITSP/ISP
+          solution</font></a></td>
+        </tr>
+        <tr>
+          <td height="20">&nbsp;</td>
+        </tr>
+        <tr>
+          <td height="20">&nbsp;</td>
+        </tr>
+</table>
+<p>&nbsp;</p>
+</body>
+</html>

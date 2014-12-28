@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/3702/2m2sipfxso723.103.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/v1.2.0/script_v1.2.0.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/6850/WinIvrLog.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/26xx/v106a/wg26xx_ap_106a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/6850GS/v1.6/system.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200GS/v300/6200GS_v3.0.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/App/2fxso723.103.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502a/2asipfxs.114.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200_doc_v301.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502a/2m2asipfxs.109.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/3702a/2m2fxso723.105.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3504a/4afxs.201.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/172plus/s2_plus_303.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellRTP/v1.2.1/5100_v121.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/3701a/2mfxso.103a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502/2sipfxs.109.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/Attendant Console/v1.0.0/SIPPBX 6200 V6607 Attendant Console User Manual.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3502a/2afxs.202.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502/2m2sipfxs.106.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/WG3512/3215-V102/2FxsPW_Config.102.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502a/2asipfxs.106.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/3702/2m2sipfxso723.106a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WS6500 V3.0/v3.0.5/6500_v305.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/v1.3.0/upgrade to 1.3.0.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/26xx/2626_v108/wg26_ap_108.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3502a/2m2afxs.204.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP388/APP/LP388sip.101a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/171/s1_300.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3502/2fxs.201.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP399/APP/AutoProvision_Phone.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/WG5260 V6.0/6.2.0/tg6.2.0.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/6850/EasyLogV3.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200S/v300/6200S_V3.0.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/26xx/2626_v107b/wg26_ap_107b.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/3702/2m2sipfxso729.106a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200_doc_v220.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3504a/2m4afxs.203.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/V2.0/HA/v2.0.3/6600_ha_v203.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/App/fxso.102a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/HA/2.1.3/6500_ha_v213.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/3702a/2m2fxso729.103a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502/2m2sipfxs.108a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/3701/2msipfxso.106.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/26xx/v107/wg26_ap_107.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WS6500 V2.1/v2.1.2/6500_v212_manual.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502/2m2sipfxs.114.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WS6500 V2/v2.03.1/V2.03.1.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP803plus/lp803_plus_v307_eng.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/26xx/EN_network_error.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200_doc_v310.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200GS/2.2.0/6200GS_v220.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/WG5290/6.1.2/tg6.1.2.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/5800/V1.2HA/BG5800HAV1.2_Binfile.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/171P/p_105.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/App/2fxso729.103a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WS6500 V2.1/6500_app_note.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/171P/p_300.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3502a/2afxs.115a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP101 201/LP201/2m/2mlp201sip.105.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/App/2fxso723.102.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/5600/V1.5/5600V1.5_Binfile.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502/2sipfxs.107a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502a/2m2asipfxs.108.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/V152/6600_v152.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP600/User manual/User mannel-v107.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP600/v108b/lp600n.108b.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200_app_note.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200GS/v311/6200gs_v311.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP388/Release 103/LP388sip103.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP600/v107a/lp600n.107a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/3702/2m2sipfxso729.101.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/172/s2_103.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/1.06/ws6500 v1.06.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/25xx/v2.09a/wg25.2.09a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/App/2fxso729.102.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/WG5290/WG5290 User Guide.zip"/>
+	<buildpathentry kind="lib" path="support/voip/SIP series/FXSO series/User_Manual/SIPFXSO.100.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellRTP/V1.0/WR5100 V1.0 User Guide.zip"/>
+	<buildpathentry kind="lib" path="support/voip/Application Note/20100407_App_note/English/Epbx100 Voice file customization procedure.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3502/2m2fxs.200.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/v1.3.0/6600_v1.3.0.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/V1.0.0/SIPPBX 6200 V1.0 Quick Guide.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200S-HA/v302/6200S_HA_v302.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WS6500-B/20061025/130 script.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200GS/v500/Web/20130604/wwwroot.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3504a/4asipfxs.114.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3504a/2m4asipfxs.109.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3504a/2m4asipfxs.110.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200GS/V225/6200GS_v225.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/V1.0.0/SIPPBX 6200 V1.0 User Manual.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/App/fxso.103.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/5600/WellRec5600V1.5.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/25xx/v2.03f/wg25.2.03f.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP388/388 User Guide Release 103.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/26xx/boot/wg26xx_loader_20100316a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502a/2asipfxs.113.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/epbx/epbx-100A-128/kernel/kernel26_301.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/171P/p_107b.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/171/s1_104.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/WG5260 V6.0/SS7/6.3.0/tg6.3.0.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/App/fxso.103a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3504a/4asipfxs.106.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/171M/m_110.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200S/V303R/6200S_v303R.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/6850/v1.6/Auto-Reboot/Centrex6850V1.6.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200S/v3.0.1/6200S_v301.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/3701/2msipfxso.106a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/HA/V216/6200HA_v216.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/172/s2_110.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/6850/v1.6/CentrexUpgrade.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/HA/v305/6500ha_v305.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/WG5260 V6.0/6.2.1/tg6.2.1.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3504a/2m4afxs.204.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200GS/v500/6200gs_v500.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200A/ivr/Ivr62xx_Eng_Male_100.pak.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3502/2fxs.202.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WS6500 V3.0/v3.0/sdi_3.0_HW1.0.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/HA/v2.1.4/6500_ha_v214.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/HA/v3.0.1/6500_ha_v301.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/5600/V1.1.3/5600V1.1.3_Binfile.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200S/2.2.4/6200S_v224.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502a/2asipfxs.104b.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WS6500 V2.1/v2.1.4/6500_v214.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WS6500 V3.0/v3.0.4/6500_v304.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/24xx/v2.09a/wg24.2.09a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/3702a/2m2fxso723.103.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/6850/Centrex6850V1.0_User_Guide.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/3702a/2m2fxso729.105.zip"/>
+	<buildpathentry kind="lib" path="support/voip/SIP series/WS6500/WS6500 V2/WS6500 V2 Overview.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200_doc_v311.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/171plus/s1_plus_208.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP600/v108d/lp600o.108d.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/v1.2.0/6200_v120.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/25xx/v2.0/wg25.2.0.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP388/Release 104/LP388sip104.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/171/s1_105.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP600/LP600_v106 User Guide.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200N/V303R/6200N_v303R.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3502/2m2fxs.203a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/3701/sipfxso.100.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/5800/EasyLogV3.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/6850/Centrex6850V1.5_User_Guide.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WS6500 V2.1/V2.1/SIPProxy V2.1 User Guide.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3504a/4asipfxs.104b.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200S/2.2.3/6200S_v223.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP600/v107c/lp600m.389.107c.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/3701/2msipfxso.105.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3504a/4afxs.115a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200GS/voice.zip"/>
+	<buildpathentry kind="lib" path="support/voip/Application Note/English/How to configure ATA171M for auto answer.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/HA/V2.1.0/ws6500 ha v2.1.0.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/M4/IVR/greeting.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP600/v108d/lp600m.389.108d.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200A/ivr/Ivr62xx_Eng_Male_100.ivr.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/3702/2m2sipfxso723.102.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/171/s1_107b.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP388/APP/LP388sip.100.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502/2m2sipfxs.107a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/6800GS/v2.1/SIPIVR6800GSV2.1_binfiles.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/25xx/v2.08a/wg25.2.08a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200GS/v310/6200gs_v310.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/App/2fxso729.103.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/3701a/2mmix1.100t1.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/v151(R070821)/6600_v151.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200GS/2.2.1/6200GS_v221.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/V2.0/v2.0.1/6600_v201.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/epbx80/CDR/CDRCollector_v100.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/3702a/2m2fxso723.103a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502a/2m2asipfxs.104b.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/28xx/provision/2808/2808_provision.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WS6500-B/20070124/U_V1.3.1_MYSQL.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WS6500-B/P301B201/6500b_P301B201.zip"/>
+	<buildpathentry kind="lib" path="support/voip/SIP series/FXSO series/User_Manual/SIPFXSO.101.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP600/v107c/lp600o.107c.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200S-HA/v300/6200S_HA_v3.0.1.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/3701a/2mfxso.102a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/172/s2_102.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/5800/V1.4/BG5800V1.4_Binfile.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/3702/2m2sipfxso729.100.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/3702/2sipfxso729.103.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/App/2fxso729.102a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/v1.2.1/6200_v121.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200S/v310/6200s_v310.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WS6500-B/P216B152/6500B_P216B152.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/3702a/2m2fxso729.107a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/171P/p_103.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/user manual/35/FXS-SIP-E-29.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/3701/sipfxso.102.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/v1.2.0/WellBlling Export Header.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/26xx/wg26xx_ap_106.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/3702a/2m2fxso723.107a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502a/2m2asipfxs.110.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502a/2asipfxs.108.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502/2sipfxs.108a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/HA/v5.0(20130429R)/6500ha_V5.0.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200N-HA/v302/6200N_HA_v302.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WGOS Change/wgos.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/6850GS/v1.6/centrex.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/v310_doc/Sample Call Flow Description.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/6800GS/EasyLogV3.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WS6500-B/P301B202/6500b_P301B202.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/epbx/epbx-100/ivr/eng_female_104.ivr.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WS6500 V3.0/v3.0.1/6500_v301.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/26xx/hold101.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3504a/2m4afxs.203a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/26xx/V106C/wg26xx_ap_106c.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/5800/WellBG 5800 User Guide V1.0.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/epbx/epbx-100A-128/app/Aapp26_128M_302d.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200S-HA/V225/6200S_HA_v225.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WS6500-B/P215B151p/6500B_P215B151p.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WS6500-B/P301B201/HW_2.0/6500b_sdi_HW2.0.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/3702a/2m2fxso723.107.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3504a/2m4asipfxs.108.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP803/LP803 Install Guide_R1.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200A/library/Lib62xx_101.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WS6500-B/P214pB150p_070709/6500b_P214pB150p.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WS6500-B/P301B201/HW_1.0/6500b_sdi_HW1.0.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP600/v108d/lp600n.108d.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/App/fxso.107.zip"/>
+	<buildpathentry kind="lib" path="support/voip/Application Note/English/How to configure transit call function on PBX6200GS.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/26xx/EN_greeting.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP600/v107c/lp600n.107c.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/6800/SIPIVR6800V15.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/App/fxso.106.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/epbx80/Firmware/v1.1/Appsmb_1.1.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/epbx80/FXO_Tone_Analyzer/FXO Tone Analyzer_EN.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3502a/2m2afxs.115a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/WG5260 V6.0/Wellgate 5260 V6.2 User Guide.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/V2.0/V2.0/6600_V2.0_doc.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/172plus/ATA172Plus_V201_Des-welltech.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/24xx/v2.09/wg24.2.09.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/WG5260 V6.0/6.1/tg6.1.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/V1.0.0/SIPPBX 6200 V1.0 User Guide-cht.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/6850S/EasyLogV3.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/5800/V1.3HA/BG5800HAV1.3_Binfile.zip"/>
+	<buildpathentry kind="lib" path="support/voip/SIP series/FXS series/user manual/35/FXS-SIP-E-20.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/AutoProvision.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/6800/WinIvrLog.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3504a/2m4afxs.205.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/5800/V1.2/BG5800V1.2_Binfile.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/WG5260 V6.0/WG5260 User Guide.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502/2m2sipfxs.108.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200GS/2.2.2/6200GS_v222.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3504a/2m4asipfxs.104b.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/epbx/epbx-100A-128/app/Aapp26_128M_302c.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/HA/V303R/6500_ha_v303R.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/26xx/v108a6/wg26_ap_108a6.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/epbx/epbx-100A-128/fs/fs26_300.ram.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/5600/WellRec5600V10.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WS6500 V2/v2.02.4/v2.02.4.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3502/2fxs.114.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/epbx40/Firmware/v2.0/Appsmb_2.0.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/V1_HA/V151(P071115)/6600ha_v151(P071115).zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/WG3512/3512-R101/3512-R101.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/V151(P071001)/6600_v151(p071115).zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/5600/WellRec5600V112.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WS6500 V3.0/v3.0/6500_v3.0.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/HA/SIPProxy HA V2.1 User Guide.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502a/2asipfxs.109.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200S(MI-110)/v311/6200s_v311.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200A/app/App62xx_101a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502/2sipfxs.111.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/3702/2m2sipfxso723.101.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502a/2m2asipfxs.106.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/6850S/v1.6/system.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/172plus/s2_plus_208.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/28xx/IVR/greeting.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/3701/2msipfxso.104.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502/2m2sipfxs.104b.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3504a/2m4asipfxs.111.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/171M/m_101.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200S/2.2.2/6200S_v222.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3504a/4asipfxs.107a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/3702a/2m2fxso729.102.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/user manual/35/FXS-SIP-E-28.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/v1.2.3/6200_v123.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200A/library/Lib62xx_100.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502/2sipfxs_102.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/171M/m_303.zip"/>
+	<buildpathentry kind="lib" path="support/voip/Application Note/English/FXO Tone Analyzer.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3502/2fxs.200.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3502a/2afxs.201.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/1.11/ws6500 v1.11.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/v310_doc/MACTEL Desc.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/6850/v1.5/centrex.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/v1.3.1/u_script_v131.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/3701a/2mfxso.107.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/26xx/wg26xx_ap_105.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200N-HA/v3.0.3R/6200N_HA_v303R.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/6550/v2.1.4/6550_v214(p070525).zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/171/s1_204.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200A/ivr/Ivr62xx_Chi_Female_100.ivr.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/6800S/v2.1/SIPIVR6800SV2.1_binfiles.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/6800S/EasyLogV3.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/25xx/v4.01/wg25.4.01.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WS6500 V2.1/2.1.3/6500_v213.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/6850/v1.5/system.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/v1.3.1(p070116)/U_V1.3.1_MYSQL.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3504a/4afxs.200.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/3702a/2m2fxso723.106.zip"/>
+	<buildpathentry kind="lib" path="support/voip/H323 series/FXS series/User manaul/FXS-E-31.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/171P/p_104.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/3701/sipfxso.101.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/v311_doc/ca_patch.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/App/fxso.105.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502/2sipfxs.108.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/v1.3.1/Script_v131.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502/2m2sipfxs.113.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3502a/2m2afxs.203a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP600/v107a/lp600o.107a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/WG3512/3215-V102/3215-V102.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP600/v201/lp600m.389.v201.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/LCS 2005 Integration.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3502/2m2fxs.114.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/WG3512/APP/2FxsPW.100.bin.zip"/>
+	<buildpathentry kind="src" path=""/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/5600/RecorderV1.1.2.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3504a/2m4afxs.115a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/iP380/Autoprovision/AutoProvision(iP380).zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200S/2.2.0/6200S_v220.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/epbx/epbx-100/ivr/chi_102.ivr.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WS6500-B/20061211/Script_v131.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3502a/2m2afxs.205.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/iP380/User manual/iP380 user guide Ver 1.0.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/3702/2m2sipfxso723.100.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/epbx80/Firmware/v1.0b/Appsmb_1.0b.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/171P/p_202.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/6800S/SIPIVR6800SV2.1_User_Guide.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP600/v108b/lp600o.108b.zip"/>
+	<buildpathentry kind="lib" path="support/voip/Application Note/English/How to configure ATA for P2P with hotline.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/epbx/epbx-100A-128/app/Aapp26_128M_All_302c.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200GS/2.2.4/6200GS_v224.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200S-HA/V303R/6200S_HA_v303R.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200_quick_doc_v220.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/epbx80/Convert/convert_tool.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP600/V1.0.0/lp600_keypad_format.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/3702a/2m2fxso729.103.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502/2m2sipfxs.109.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/App/2fxso723.103a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3502a/2afxs.200.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/25xx/v2.09/wg25.2.09.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/26xx/voice_0_to_9.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WS6500 V5.0/v5.0(20130429R)/6500_V5.0.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/5800/V1.4HA/BG5800HAV1.4_Binfile.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/171M/m_100.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/24xx/FXO_Tone_Analyzer/FXO Tone Analyzer_EN.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/26xx/tool/FXO Tone Analyzer_EN.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP600/V1.0.0/LP600 User Guide.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/3702a/2mmix2.100t1.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/user manual/35/FXS-SIP-E-27.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WS6500-B/20061211/u_script_v131.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/HA/v2.1.1/6500_ha_v2.1.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WS6500 V3.0/6550 sdi/6550_sdi_HW2.0.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/3701/2msipfxso.103.zip"/>
+	<buildpathentry kind="lib" path="support/voip/SIP series/FXS series/user manual/35/FXS-SIP-E-23.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WS6500-B/20061025/6500-B_1025.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/WG5260 V6.0/SS7/6.1.2/tg6.1.2.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200S-HA/V224/6200S_ha_v224.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/v1.3.0/script_v1.3.0.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/26xx/V105b/wg26xx_ap_105b.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502a/2m2asipfxs.107a.zip"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+	<buildpathentry kind="lib" path="support/voip/SIP series/LP101 201/UM/LP101 201_SIP_100a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/26xx/v107b/wg26_ap_107b.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/25xx/v2.01/wg25.2.01.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/WG5260 V6.0/WG5260 User Guide- V6.1.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP101 201/LP201/App/lp201sip.102.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200GS-HA/2.2.4/6200GS_ha_v224.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WS6500 V2.1/v2.1.1/ws6500_v2.1.1.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WS6500 V2.1/V2.1/ws6500 v2.1.0.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502a/2asipfxs.107a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/25xx/provision/2504/2504_Provision.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/3701a/2mfxso.106.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/3702/2m2sipfxso729.106.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP600/v108b/lp600m.389.108b.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3504a/4asipfxs.110.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/WG3512/3512-V104d/3512-V104d.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200A/ivr/Ivr62xx_Eng_Female_100.ivr.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/V1_HA/v151(070821)/6500ha_v151.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/v310_doc/Default VoicePrompt.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200GS/2.2.3/6200GS_v223.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200GS/V302/6200GS_v302.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/PrefixCode_Export.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/V2.0/v2.0.3/6600_v203.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200GS-HA/V303R/6200GS_HA_v303R.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WS6500-B/P301B203/6500b_P301B203.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WS6500-B/P214pB150_20070515/6500b-P214pB150.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200GS/V303R/6200GS_v303R.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200GS-HA/V225/6200GS_HA_v225.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/3701/sipfxso.105.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/v1.2.2/6200_v122.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3502a/2m2afxs.200.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/v1.2.1/6600_v1.2.1.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502/2sipfxs.113.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200S/v311/6200s_v311.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/V1_HA/v1.5.0 (P070502)/6600ha_v150(p070502).zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3504a/2m4asipfxs.113.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/172/172_101.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200S/v302/6200S_v302.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/HA/V2.02.4/SIPProxy_HA User Guide.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP101 201/LP201/App/lp201sip.103.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/3702/2sipfxso729.100.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/V1_HA/v1.3.1(p070116)/u_script_v131.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/v1.1.0/6200_v110.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP600/v107a/lp600m.389.107a.zip"/>
+	<buildpathentry kind="lib" path="support/voip/Application Note/20100407_App_note/English/26xx recovery by using console and boot loader.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/v310_doc/ss_patch.zip"/>
+	<buildpathentry kind="lib" path="support/voip/Application Note/20100407_App_note/English/How to configure ATA for autoupdate.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502/2m2sipfxs.110.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/3701/2msipfxso.102.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/V1_HA/v1.5.0/6600_ha_v150.zip"/>
+	<buildpathentry kind="lib" path="support/voip/SIP series/FXS series/user manual/35/FXS-SIP-E-24.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/3702/2sipfxso723.100.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP600/LP600N_V106/lp600n_v106.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/6800/v1.0.9/sipivr6800v1.0.9.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502a/2asipfxs_102.zip"/>
+	<buildpathentry kind="lib" path="support/voip/H323 series/FXS+FXO/user manual/FXSO.102.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/WG5260 V6.0/Web/20120207/wwwroot.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/25xx/provision/2522/2522_Provision.zip"/>
+	<buildpathentry kind="lib" path="support/voip/SIP series/FXS series/user manual/35/FXS-SIP-E-22.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200N/v311/6200n_v311.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/V2.0/HA/v2.0.1/6600_ha_v201.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/6800/v1.0.18/sipivr6800v1.0.18.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WS6500 V3.0/v3.0.2/6500_v302.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/App/1fxso.102.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/3702/2sipfxso723.102.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/6850S/v1.6/centrex.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/Attendant Console/v1.0.0.3/attend_v1003.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3504a/2m4asipfxs.108a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/172/s2_204.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/v1.5.0/6600_doc_v150.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502a/2m2asipfxs.111.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/6800GS/SIPIVR6800GSV2.1_User_Guide.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/Attendant Console/v104/attendant_v1.0.4.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3502/2m2fxs.205.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502/2m2sipfxs.111.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/3701/sipfxso.103.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/171/s1_110.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/3702/2m2sipfxso729.105.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/171P/p_110.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3504a/4afxs.203a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3504a/4asipfxs.108a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WS6500 V2.1/v2.1.5/6500_v215.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/HA/V302/6500_ha_v302.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/v1.2.0/6600_v1.2.0.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/171plus/s1_plus_300.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/5600/EasyLogV3.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/25xx/v2.08b/wg25.2.08b.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WS6500-B/20070124/6500-B_070116.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3502/2m2fxs.115a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3502/2fxs.205.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3504a/2m4asipfxs.106.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/1.08/ws6500 v1.08.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WS6500-B/20060725/ws6500-b.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/3701a/2mfxso.105.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/epbx/epbx-100/ivr/eng_male_104.ivr.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/171plus/ATA171Plus_V201_Des-welltech.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/3701a/2m1fxso.102.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3504a/4asipfxs_102.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502a/2asipfxs.108a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502/2sipfxs.104b.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/epbx/CDR/CDRCollector_v100.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3504a/4asipfxs.111.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/v1.3.1/6600_v131.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WS6500 V3.0/6550 sdi/6550_sdi_HW1.0.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WS6500 V2.1/v2.1.1/OS/V2.1.1_OS.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200GS-HA/V500/6200gs_ha_v500.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/26xx/v106d/wg26xx_ap_106d.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/6800S/v2.0/SIPIVR6800SV2.0_binfiles.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/6800/v1.5/SIPIVR6800V1.5_binfiles.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WS6500 V3.0/v3.0/6500_v3.0_doc.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/M4/provision.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/3701/2msipfxso.101.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/3702/2m2sipfxso723.106.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP600/For_6200x_auto_provision.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502/2sipfxs.106.zip"/>
+	<buildpathentry kind="lib" path="support/voip/SIP series/FXS series/user manual/35/FXS-SIP-E-25.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP399/APP/399_300.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502/2sipfxs.114.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3502a/2afxs.203a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/v1.2.0/wgos.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WS6500 V2/V2.01/ws6500 v2.01.zip"/>
+	<buildpathentry kind="lib" path="support/voip/H323 series/FXS+FXO/user manual/FXSO.103a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/V1.0.0/SIPPBX 6200 V1.0 User Guide-cn.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200A/kernel/Kernel62xx_100.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/v151(R070821)/6600_v150_export_header.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502a/2m2asipfxs.108a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/3701/sipfxso.104.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/v1.5.0 (p070502)/6600_v150(p070502).zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3502/2m2fxs.204.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WS6500-B/20060725/WS6500-B User Guide.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/V2.0/V2.0/6600_AppNote_v2.0.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/3701/sipfxso.106a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/171P/p_102.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/V2.0/V2.0/6600_v2.0.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WS6500-B/20060925/ws6500-b_0925.zip"/>
+	<buildpathentry kind="lib" path="support/voip/SIP series/FXS series/user manual/35/FXS-SIP-E-21.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3504a/2m4asipfxs.114.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200GS/v300/6200_doc_v3.0.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/3702/2sipfxso723.101.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/6850S/Centrex6850S_User_Guide.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502/2sipfxs.110.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/24xx/v4.01/wg24.4.01.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/v1.5.0/6600_v150.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP803/LP803_v102_User Manual.zip"/>
+	<buildpathentry kind="lib" path="support/voip/H323 series/FXS+FXO/user manual/FXSO.103.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/epbx80/Firmware/v1.1a/Appsmb_1.1a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200N-HA/V311/6200n_ha_v311.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/171/s1_103.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WS6500 V3.0/Web/20120207/wwwroot.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/epbx80/Firmware/v1.0a/Appsmb_1.0a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WS6500-B/20061025/upgrade to 130.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/WG5290/Web/20120207/wwwroot.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/iP380/User manual/iP380_θζ%98%8Eζ%9BΈ_Ver_1.0.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/26xx/v108/wg26_ap_108.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/V2.0/Web/20120207/wwwroot.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/v1.3.1(p070116)/6600_v131(p070116).zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3502/2fxs.203a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3502a/2m2afxs.202.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200_doc_v223.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/V2.0/v2.0.2/6600_v202.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3504a/4asipfxs.113.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/171M/m_107b.zip"/>
+	<buildpathentry kind="lib" path="support/voip/Application Note/20100407_App_note/English/TFTP_Server.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/HA/v2.1.5/6500_ha_v215.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/26xx/Reason Code prompt(English).zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200A/ramdisk/Fs62xx_101.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/3702/2m2sipfxso729.104.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/171M/m_105.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WS6500-B/20061211/6500-B_1226.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3502/2fxs.204.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3502a/2afxs.205.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/3701a/2mfxso.103.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP600/v107b/lp600o.107b.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3504a/2m4afxs.201.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/28xx/FXO_Tone_Analyzer/FXO Tone Analyzer_EN.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3504a/2m4asipfxs.107a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/HA/v304/6500ha_v304.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/Attendant Console/v6712/SIPPBX6200AttendantV6712.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/26xx/greeting102.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP388/Release 105/LP388sip105.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3504a/4asipfxs.109.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP600/music_g726.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WS6500-B/P304B204/6500b_P304B204.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WS6500 V2.1/V216/6500_v216.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/24xx/v2.08c/wg24.2.08c.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WS6500 V2/v2.03.2/v2.03.3.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WS6500-B/P304B204/Web/20120207/wwwroot.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3504a/4afxs.204.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/WG3512/3512-V104d/2FxsPW_Config.104d.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/24xx/provision/WG2424o_provision.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/WG5260 V6.0/SS7/tg6.1.1.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502a/2asipfxs.111.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/v1.2.4/6200_v124.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/172/s2_105.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP600/LP600O_V106/lp600o_v106.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200GS-HA/V302/6200GS_HA_v302.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3504a/4afxs.203.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/171M/m_300.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/26xx/v106b/wg26xx_ap_106b.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/26xx/8fxssip.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/25xx/FXO_Tone_Analyzer/FXO Tone Analyzer_EN.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3504a/2m4afxs.200.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/3702/2m2sipfxso723.105.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/3701/2msipfxso.100.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/171M/m_203.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/V2.0/HA/V2.0/6600ha_v2.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/AutoProvision_V2_2.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WS6500 V2/v2.02.2/v2.02.2.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/v1.5.0/u_script_v150.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/3702a/2m2fxso729.106.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/v1.5.0/script_v150.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/6850/v1.6/SIPIVR6800V1.5_binfiles.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/3702/2sipfxso729.102.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/3702/2m2sipfxso729.103.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/HA/v2.1.2/6500_ha_v212.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/WG5260 V6.0/6.1.2/tg6.1.2.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP600/LP389_V106/lp389_v106.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/App/2fxso723.102a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/172/s2_107b.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/International Prefix table.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/25xx/v1.01/wg25.1.01.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/3702a/2m2fxso723.102.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/6800/EasyLogV3.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/24xx/v2.03/wg24.2.03.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/172/s2_300.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3502/2m2fxs.201.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200N/v302/6200N_v302.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WS6500 V2/v2.02.2/WS6500 V2.02.2 User Guide.zip"/>
+	<buildpathentry kind="lib" path="support/voip/H323 series/FXS+FXO/user manual/FXSO.100.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3502/2fxs.115a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/24xx/v2.03f/wg24.2.03f.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/v1.2.0/script_upgrade to 1.2.0.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WS6500 V2/V1ToV2.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP600/Http_provision.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/28xx/provision/2880/2880_provision.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/iP380/App/IP380_V1_0_1211220.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200A/ramdisk/Fs62xx_100.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/25xx/v2.03/wg25.2.03.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/3702a/2m2fxso729.107.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/3702/2m2sipfxso723.104.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP388/APP/LP388sip.102.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/26xx/8fxssip.101a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/6850GS/Centrex6850GS_User_Guide.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP 6500 IPv6/V1.0/6500_IPv6_v1.0_manual.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/3702a/2m2fxso723.102a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/5800/V1.3/BG5800V1.3_Binfile.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200A/app/App62xx_100.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/171/s1_102.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200GS/v311/Web/20120207/wwwroot.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/V151(P071001)/6600_v151(p071001).zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/epbx/epbx-100A-128/kernel/kernel26_300.img.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/V2.0/HA/V2.0.2/6600_ha_v202.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3504a/4asipfxs.108.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/v1.3.0/6600_doc_v130.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502a/2m2asipfxs.114.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3504a/4afxs.205.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP600/auto_provisioning.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200S-HA/V311/6200s_ha_v311.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502a/2m2asipfxs.113.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/5800/WellBG 5800 User Guide V1.3.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/V1_HA/v1.3.1(p070116)/6600_ha_v131(p070116).zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/24xx/provision/WG2424s_provision.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/3701a/2mfxso.107a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP600/LP389_V106/LP389_v106 User Guide.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/3702/2sipfxso729.101.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/LP101 201/LP201/App/lp201sip.104.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/172/172_100.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3502a/2afxs.204.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/25xx/provision/2540/2540_Provision.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/26xx/V107a/wg26_ap_107a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/3702/2m2sipfxso729.102.zip"/>
+	<buildpathentry kind="lib" path="support/voip/Application Note/English/How to configure PIN authorization for outgoing call on PBX6200S.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/6600_app_note.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/v310_doc/Service Setting prompt.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/26xx/wg26xx_ap_102.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3502a/2m2afxs.201.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200S/2.2.1/6200S_v221.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WS6500 V3.0/v3.0.3R/6500_v303R.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/App/fxso.107a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200N/v310/6200n_v310.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/DataSync.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/171P/p_303.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/24xx/v1.01/wg24.1.01.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/6800/SIPIVR6800V10.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200GS/v3.0.1/6200GS_v301.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200GS-HA/V311/6200gs_ha_v311.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WS6500 V3.0/v3.0/sdi_3.0_HW2.0.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/26xx/ch voice 0 to 9.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/3502a/2asipfxs.110.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/5600/wgos.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS+FXO/3702a/2m2fxso729.102a.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/171plus/s1_plus_303.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/172/s2_104.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WS6500 V2/v2.02.2/WS6500 V2.02.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200S/V225/6200S_v225.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/H323 series/FXS series/3502/2m2fxs.202.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WellBilling 6600/V1_HA/V152/6600_ha_v152.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/3702/2sipfxso723.103.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/ATA17X/172plus/s2_plus_300.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/HA/v3.0/6500ha_v3.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXSO series/3701/sipfxso.106.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WS6500 V2.1/v2.1.2/6500_v212.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/FXS series/WG3512/APP/2FxsPW.100B.bin.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/SIPPBX6200/SIPPBX6200/6200S/v300/sdi_3.0_HW3.0.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/WellSIP/WS6500 V3.0/v3.0/6500_AppNote_v3.0.zip"/>
+	<buildpathentry kind="lib" path="support/voip2/SIP series/6800GS/v2.0/SIPIVR6800GSV2.0_binfiles.zip"/>
+</buildpath>

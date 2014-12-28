@@ -1,0 +1,25 @@
+
+@font-face {
+    font-family: Roboto;
+    src: url(Roboto-greek.woff);
+}
+
+body{
+	background: url(../image/bg_2.gif);
+	font-family: 'Roboto', sans-serif;
+}
+
+input, button, select{
+	font-family: 'Roboto', sans-serif;
+}
+
+#header{
+	background: #ADD2E7;
+	width: 98%;
+}
+
+#submit-text{
+	font-weight: bold;
+	background: #228B22;
+	color: #fff;
+}
