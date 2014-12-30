@@ -73,19 +73,19 @@ body {
         <td width="180" height="13"><div align="center"><img src="image/p_bg_1.gif" width="180" height="13"></div></td>
       </tr>
       <tr>
-        <td width="180" height="135"><div align="center"><a href="product_e_0w.htm"><img src="image/promo_05.jpg" width="165" height="125" border="0"></a></div></td>
+        <td width="180" height="135"><div align="center"><a href="product_e_0w.php"><img src="image/promo_05.jpg" width="165" height="125" border="0"></a></div></td>
       </tr>
       <tr>
         <td width="180" height="135"><div align="center"><a href="product_e_2o.php"><img src="image/promo_02.jpg" width="165" height="125" border="0"></a></div></td>
       </tr>
       <tr>
-        <td width="180" height="135"><div align="center"><a href="product_e_09.htm"><img src="image/promo_03.jpg" width="165" height="125" border="0"></a></div></td>
+        <td width="180" height="135"><div align="center"><a href="product_e_09.php"><img src="image/promo_03.jpg" width="165" height="125" border="0"></a></div></td>
       </tr>
       <tr>
-        <td height="135" align="center" valign="middle"><a href="product_e_0a.htm"><img src="image/promo_04.jpg" width="165" height="125" border="0"></a></td>
+        <td height="135" align="center" valign="middle"><a href="product_e_0a.php"><img src="image/promo_04.jpg" width="165" height="125" border="0"></a></td>
       </tr>
       <tr>
-        <td width="180" height="135"><div align="center"><a href="product_e_0k.htm"><img src="image/promo_01.jpg" width="165" height="125" border="0"></a></div></td>
+        <td width="180" height="135"><div align="center"><a href="product_e_0k.php"><img src="image/promo_01.jpg" width="165" height="125" border="0"></a></div></td>
       </tr>
       <tr>
         <td width="180" height="13"><div align="center"><img src="image/p_bg_3.gif" width="180" height="13"></div></td>
@@ -128,7 +128,7 @@ body {
           <td width="180"><table width="180" border="0" cellpadding="0" cellspacing="0" class="Border_1">
                   <tr>
                     <td width="180" height="12" bgcolor="#FFFFFF" class="auto-style1">
-					<br><a href="image/DUNS.jpg" target="_blank"><img src="image/DUNS_icon.jpg" width="120" height="37" border="0"></a><p class="txt_R1">Welltech VoIP products are manufactured in Taipei, Taiwan.</p></td>
+					<br><img src="image/DUNS_icon.jpg" width="120" height="37" border="0"><p class="txt_R1">Welltech VoIP products are manufactured in Taipei, Taiwan.</p></td>
                   </tr>
                   </table></td></tr>
         <tr>
