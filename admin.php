@@ -104,7 +104,8 @@ $(document).ready(function(){
             url: 'admin-option.php',
             success: function(data){ 
                 console.log(data);
-                if ( data == '1' ) {
+                var ret = parseInt(data);
+                if ( data == 1 ) {
                     var d = new Date();
                     document.title = 'Saved '+d.getHours()+':'+d.getMinutes()+':'+d.getSeconds();
                 } else{

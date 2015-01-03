@@ -17,9 +17,8 @@ if ( $mode == 1 ){
 
 } else if ( $mode == 2 ){
 	$main = $_POST['text'];
-	//$pos = mb_strpos($text, '</ul>', 0, 'UTF-8') + 5;
-	//$main = mb_substr($text, $pos, mb_strlen($text, 'UTF-8'), 'UTF-8');
-	$query = "UPDATE products SET main = '$main' WHERE id = $id";
+	$main = str_replace("'", '', $main);
+	$query = "UPDATE pages SET main = '$main' WHERE id = $id";
 	$stmt = $dbh->prepare($query);
 	$stmt->execute();
 	echo $stmt->rowCount();
