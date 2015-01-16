@@ -90,7 +90,7 @@ td[class^="txt_"] a, ul li[class^="txt_"] a, ul[class^="txt_"] li a, ul li a[cla
        <td width="380" height="67" valign="middle">
        <div align="right">
 			<a href="../lang.php?lang=EN" target="_parent" class="lang">English</a>
-	        <a href="../lang.php?lang=GR" target="_parent" class="lang">Ελληνικά</a>
+	       <a href="../lang.php?lang=GR" target="_parent" class="lang">Ελληνικά</a>
 	   </div>
        </td>
 </tr>
@@ -104,7 +104,7 @@ td[class^="txt_"] a, ul li[class^="txt_"] a, ul[class^="txt_"] li a, ul li a[cla
       <b>
    	  <a href="../index.php" target="_top" class="menu_e"><?php echo $menu[0]; ?></a>
    	  <a href="../product_e.php" target="_top" class="menu_e"><?php echo $menu[1]; ?></a>
-   	  <a href=".../product_e_31.php" target="_top" class="menu_e"><?php echo $menu[2]; ?></a>
+   	  <a href="../product_e_31.php" target="_top" class="menu_e"><?php echo $menu[2]; ?></a>
    	  <a href="support.php" target="_top" class="menu_e"><?php echo $menu[3]; ?></a>
    	  <a href="../about_e.php" target="_top" class="menu_e"><?php echo $menu[4]; ?></a>
    	  <a href="../contact.php" target="_top" class="menu_e"><?php echo $menu[5]; ?></a>

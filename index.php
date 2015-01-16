@@ -46,6 +46,7 @@ body {
 }
 -->
 </style>
+
 </head>
 
 <body topmargin="0" leftmargin="0">
@@ -188,11 +189,6 @@ body {
         </tr>
       </table>
     </div></td>
-  </tr>
-</table>
-<table border="0" width="760" height="10" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="760" height="30"><div align="center" class="txt_R1  style10"><span class="txt_C2"><font size="1">Copyright &copy; 2011. WELLTECH TECHNOLOGY CO., LTD. All Rights Reserved.</font></span></div></td>
   </tr>
 </table>
 

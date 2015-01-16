@@ -71,8 +71,48 @@ $dbh = null;
 
 tinymce.init({
 	selector: "textarea",
-	entity_encoding: "raw"
+	entity_encoding: "raw",
+	theme :"modern",
+	force_br_newlines : false,
+	force_p_newlines : false,
+	forced_root_block : ''   
 });
+
+
+(function($) {
+	"use strict";
+	$.ajaxWithRetries = function(options, retryConfig) {
+		var retryCounter = 1;
+		var originalErrorFunc = options.error, config = {
+		  retries : 10,
+		  backoff : false,
+		  backoffInterval : 2000,
+		  backOffFunc : function(currentInterval) {
+			  return currentInterval * 2;
+		  }
+		};
+		$.extend(config, retryConfig);
+		options.error = function() {
+			if (retryCounter === config.retries) {
+				retryCounter = 1;
+				if (typeof originalErrorFunc !== "undefined") {
+					originalErrorFunc();
+				}
+			} else {
+				retryCounter++;
+				if (config.exponentialBackoff) {
+					config.backoffInterval = retryCounter === 0 ? config.backoffInterval
+					    : config.backOffFunc(config.backoffInterval);
+				}
+				setTimeout(function() {
+					$.ajax(options);
+				}, config.backoffInterval);
+			}
+		};
+		return $.ajax(options);
+	};
+})(jQuery);
+
 
 $(document).ready(function(){
 	
@@ -80,7 +120,7 @@ $(document).ready(function(){
 		var opt = parseInt($(this).find('option:selected').val());
 		if ( opt == 0 ) return; 
 		
-		 $.ajax({
+		 $.ajaxWithRetries({
              data:{'mode':1, 'option': opt},
              type: 'post',
              url: 'admin-option.php',

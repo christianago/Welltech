@@ -1,7 +1,7 @@
 <html>
 
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-1">
+<meta charset="UTF-8" />
 <meta name="GENERATOR" content="Microsoft FrontPage 4.0">
 <meta name="ProgId" content="FrontPage.Editor.Document">
 
@@ -86,7 +86,7 @@ table[width="170"] a, table[style="width:170px"]{
     </td>
   </tr>
 </table>
-<?php include_once('copyrights.php'); ?>
+
 </center>
 </body>
 

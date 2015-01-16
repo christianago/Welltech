@@ -1,6 +1,7 @@
 ﻿<html>
 
 <head>
+<meta charset="UTF-8" />
 <meta content="zh-tw" http-equiv="Content-Language" />
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
 <title>IP Phone LP-399</title>
@@ -189,7 +190,7 @@
 		</td>
 	</tr>
 </table>
-<?php include_once('copyrights.php'); ?>
+
 </center>
 
 </body>

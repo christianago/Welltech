@@ -91,7 +91,7 @@ table[width="170"] a, td[width="170"] a, td[height="20"] a{
     </td>
   </tr>
 </table>
-<?php include_once('copyrights.php'); ?>
+
 </center>
 </body>
 

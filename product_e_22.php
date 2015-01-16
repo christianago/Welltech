@@ -4,7 +4,7 @@
 <meta charset="UTF-8" />
 <meta name="GENERATOR" content="Microsoft FrontPage 4.0">
 <meta name="ProgId" content="FrontPage.Editor.Document">
-<meta content="????VoIP???--IP PBX , IP Phone ,FXO Gateway, FXS Gateway, SIP Proxy, Billing system" name="description">
+
 
 <title>SIP Proxy IP-PBX, WellSIP 6500 V2</title>
 <link rel="shortcut icon" href="image/tel.ico" type="image/png" />
@@ -81,7 +81,7 @@ li a strong, div a strong{
     </td>
   </tr>
 </table>
-<?php include_once('copyrights.php'); ?>
+
 </center>
 </body>
 

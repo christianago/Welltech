@@ -66,7 +66,7 @@ body {
     	<?php echo $main; ?>
     </td>
   </tr>
-<?php include_once('copyrights.php'); ?>
+
 </body>
 
 </html>

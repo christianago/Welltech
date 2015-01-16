@@ -17,7 +17,7 @@ if ( $mode == 1 ){
 
 } else if ( $mode == 2 ){
 	$main = $_POST['text'];
-	$main = str_replace("'", '', $main);
+    $main = str_replace("'", '', $main);
 	$query = "UPDATE pages SET main = '$main' WHERE id = $id";
 	$stmt = $dbh->prepare($query);
 	$stmt->execute();

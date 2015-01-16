@@ -76,7 +76,7 @@ body {
     </td>
   </tr>
 </table>
-<?php include_once('copyrights.php'); ?>
+
 </center>
 </body>
 

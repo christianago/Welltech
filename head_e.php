@@ -11,6 +11,7 @@ if ( isset($_SESSION['lang']) && @$_SESSION['lang'] == 'GR' ){
 	$lang = 0;
 }
 
+
 $stmt = $dbh->prepare("SELECT main, title FROM pages WHERE filename='head_e' AND lang=:l LIMIT 1");
 $stmt->bindValue(':l', $lang);
 $stmt->execute();
@@ -77,7 +78,7 @@ body {
        <td width="380" height="67" valign="middle">
        <div align="right">
 			<a href="lang.php?lang=EN" target="_parent" class="lang">English</a>
-	        <a href="lang.php?lang=GR" target="_parent" class="lang">Ελληνικά</a>
+	     	<a href="lang.php?lang=GR" target="_parent" class="lang">Ελληνικά</a>
 	   </div>
        </td>
 </tr>

@@ -54,7 +54,7 @@ table[width="170"] a, table[style="width:170px"] a, li a strong{
     </td>
   </tr>
 </table>
-<?php include_once('copyrights.php'); ?>
+
 </center>
 </body>
 

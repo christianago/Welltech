@@ -1,0 +1,5 @@
+#RewriteEngine on
+#RewriteCond %{HTTP_HOST} ^http://sparklingwishes.info/welltech/$[OR]
+#RewriteCond %{HTTP_HOST} ^http://sparklingwishes.info/welltech/$
+#RewriteRule ^(.*)$ http://www.welltech.gr$1 [R=301,L]
+#RewriteRule   product_e.php   pro.php

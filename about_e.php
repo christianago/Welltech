@@ -68,7 +68,7 @@ window.open = SymWinOpen;
   </tr>
 </table>
 </table>
-<?php include_once('copyrights.php'); ?>
+
 </center>
 
 </body>
