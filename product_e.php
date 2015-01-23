@@ -39,7 +39,7 @@ window.open = SymWinOpen;
 	font-style: italic;
 }
 body {
-	background-image: url(image/bg_2.gif);
+	
 }
 .style13 {color: #FF0000}
 -->
@@ -67,6 +67,6 @@ body {
     </td>
   </tr>
 
-</body>
+<script src="js/jquery.min.js"></script><script src="js/pages.js"></script></body>
 
 </html>

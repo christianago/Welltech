@@ -2,18 +2,13 @@
 
 <head>
 <meta charset="UTF-8" />
-<meta name="GENERATOR" content="Microsoft FrontPage 12.0">
-<meta name="ProgId" content="FrontPage.Editor.Document">
-
 <title>IP PBX - Welltech VoIP Provider</title>
 <link rel="shortcut icon" href="image/tel.png" type="image/png">
 <link href="css/main.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 <!--
-body {
-	background-image: url(image/bg_2.gif);
-}
-.style3 {font-size: 10px; color: #2F6A8E; font-family: Verdana, Arial, Helvetica, sans-serif;}
+
+.style3 {font-size: 10px; color: #2F6A8E;}
 .style10 {font-size: 12px}
 .style11 {
 	font-size: 10px;
@@ -22,7 +17,7 @@ body {
 .style14 {color: #2F6A8E}
 .style16 {font-size: 12px; color: #0000FF; }
 .style17 {font-size: 10px}
-.style18 {font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif;}
+.style18 {font-size: 10px; }
 .auto-style1 {
 	text-align: center;
 }
@@ -44,6 +39,13 @@ body {
 	color: #FB9F4A;
 	margin-left: 0;
 }
+
+#slider1_container img{
+	width: 389px;
+	height: 290px;
+}
+
+
 -->
 </style>
 
@@ -98,9 +100,62 @@ body {
         <tr>
           <td width="386" height="350" bgcolor="#FFFFFF">
             
-            <a href="image/WellGate_M4_M.jpg">
             
-            <iframe scrolling="no" src="main_e1.htm" frameborder="0" width="386" height="350" marginheight="350" name="main"></iframe>
+             <div id="slider1_container" style="position: relative; top: 0px; left: 0px; width: 389px; height: 290px;">
+
+			    <div u="slides" style=" position: absolute; overflow: hidden; left: 0px; top: 0px; width: 389px; height: 290px;">
+			        <div><img u="image" src="image/WellGate_M4_M.jpg" /></div>
+			        <div><img u="image" src="image/main_e_2.jpg" /></div>
+			        <div><img u="image" src="image/main_e_3.jpg" /></div>
+			        <div><img u="image" src="image/main_e_4.jpg" /></div>
+			        <div><img u="image" src="image/main_e_5.jpg" /></div>
+			        <div><img u="image" src="image/main_e_6.jpg" /></div>
+			        <div><img u="image" src="image/main_e_ebx40.jpg" /></div>
+			        <div><img u="image" src="image/lp803_d.jpg" /></div>
+			        <div><img u="image" src="image/promo_05.png" /></div>
+			        <div><img u="image" src="image/promo_02.png" /></div>
+			        <div><img u="image" src="image/promo_03.png" /></div>
+			    </div>
+			    
+			    
+		<!-- Bullet Navigator Skin Begin -->
+        <style>
+            /* jssor slider bullet navigator skin 05 css */
+            /*
+            .jssorb05 div           (normal)
+            .jssorb05 div:hover     (normal mouseover)
+            .jssorb05 .av           (active)
+            .jssorb05 .av:hover     (active mouseover)
+            .jssorb05 .dn           (mousedown)
+            */
+            .jssorb05 div, .jssorb05 div:hover, .jssorb05 .av
+            {
+                background: url(image/b05.png) no-repeat;
+                overflow:hidden;
+                cursor: pointer;
+                
+            }
+            .jssorb05 div { background-position: -7px -7px; }
+            .jssorb05 div:hover, .jssorb05 .av:hover { background-position: -37px -7px; }
+            .jssorb05 .av { background-position: -67px -7px; }
+            .jssorb05 .dn, .jssorb05 .dn:hover { background-position: -97px -7px; }
+            
+            .jssorb05{
+            	position: relative;
+            	top: 297px;
+            }
+            
+        </style>
+        <!-- bullet navigator container -->
+        <div u="navigator" class="jssorb05" style="position: absolute; bottom: 16px; right: 6px;">
+            <!-- bullet navigator item prototype -->
+            <div u="prototype" style="POSITION: absolute; WIDTH: 16px; HEIGHT: 16px;"></div>
+        </div>
+        <!-- Bullet Navigator Skin End -->
+			    
+	</div>
+			
+
 			</a></td>
         </tr>
       
@@ -197,11 +252,45 @@ body {
     <td width="100%" height="10" valign="top"><div align="center" class="style3"></div></td>
   </tr>
 </table>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-<script type="text/javascript">
-_uacct = "UA-2696903-2";
-urchinTracker();
-</script>
+
 </center>
+<script src="js/jquery.min.js"></script>
+<script src="js/jssor.js"></script>
+<script src="js/jssor.slider.js"></script>
+
+<script>
+
+$(document).ready(function(){
+
+	 var options = {
+             $AutoPlay: true,                                   //[Optional] Whether to auto play, to enable slideshow, this option must be set to true, default value is false
+             $SlideDuration: 500,                                //[Optional] Specifies default duration (swipe) for slide in milliseconds, default value is 500
+
+             $BulletNavigatorOptions: {                                //[Optional] Options to specify and enable navigator or not
+                 $Class: $JssorBulletNavigator$,                       //[Required] Class to create navigator instance
+                 $ChanceToShow: 2,                               //[Required] 0 Never, 1 Mouse Over, 2 Always
+                 $AutoCenter: 1,                                 //[Optional] Auto center navigator in parent container, 0 None, 1 Horizontal, 2 Vertical, 3 Both, default value is 0
+                 $Steps: 1,                                      //[Optional] Steps to go for each navigation request, default value is 1
+                 $Lanes: 1,                                      //[Optional] Specify lanes to arrange items, default value is 1
+                 $SpacingX: 10,                                  //[Optional] Horizontal space between each item in pixel, default value is 0
+                 $SpacingY: 10,                                  //[Optional] Vertical space between each item in pixel, default value is 0
+                 $Orientation: 1                                 //[Optional] The orientation of the navigator, 1 horizontal, 2 vertical, default value is 1
+             }
+         };
+
+
+	 var jssor_slider1 = new $JssorSlider$('slider1_container', options);
+	
+});
+
+
+</script>
+
+
+
+
+
+
+
 </body>
 </html>

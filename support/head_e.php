@@ -48,14 +48,17 @@ $dbh = null;
 body {
 	margin-left: 0px;
 	margin-top: 0px;
-	background-image: url(../image/bg_2.gif);
 }
 -->
 </style>
 <link href="../css/link.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 <!--
-.style8 {font-size: 9px; color: #FFFFFF; text-decoration: none; font-family: Verdana, Arial, Helvetica, sans-serif;}
+body a{
+	font-family: 'Roboto', sans-serif !important; 
+}
+
+.style8 {font-size: 9px; color: #FFFFFF; text-decoration: none; font-family: 'Roboto', sans-serif !important;, sans-serif;}
 .style9 {font-size: 11px}
 
 .menu_e{
@@ -114,7 +117,7 @@ td[class^="txt_"] a, ul li[class^="txt_"] a, ul[class^="txt_"] li a, ul li a[cla
 </table>
 </div>
 
-</body>
+<script src="js/jquery.min.js"></script><script src="js/pages.js"></script></body>
 
 </html>
 

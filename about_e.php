@@ -9,13 +9,20 @@
 <link rel="shortcut icon" href="image/tel.ico" type="image/png" />
 <style type="text/css">
 <!--
-{font-family: Verdana, Arial, Helvetica}
-td {font:8.5pt Verdana; white-space:nowrap;}
+
+td {white-space:nowrap;}
 a:link {font:Verdana; color:#ffffff; text-decoration: none}
 a:hover {font:Verdana; color:#ffffff; text-decoration: none}
 a:visited {font:Verdana; color:#ffffff; text-decoration: none}
-body {
-	background-image: url(image/bg_2.gif);
+
+@font-face {
+    font-family: Roboto;
+    src: url(Roboto-greek.woff);
+}
+
+td{
+	font-size: 9pt;
+	font-family: 'Roboto', sans-serif !important; 
 }
 -->
 </style>
@@ -71,6 +78,6 @@ window.open = SymWinOpen;
 
 </center>
 
-</body>
+<script src="js/jquery.min.js"></script><script src="js/pages.js"></script></body>
 
 </html>

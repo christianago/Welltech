@@ -8,8 +8,8 @@
 <link rel="shortcut icon" href="image/tel.ico" type="image/png" />
 <style type="text/css">
 <!--
-{font-family: Verdana, Arial, Helvetica}
-td {font:8.5pt Verdana; white-space:nowrap;}
+
+td { white-space:nowrap;}
 a:link {font:Verdana; color:#ffffff; text-decoration: none}
 a:hover {font:Verdana; color:#ffffff; text-decoration: none}
 a:visited {font:Verdana; color:#ffffff; text-decoration: none}
@@ -19,13 +19,14 @@ a:visited {font:Verdana; color:#ffffff; text-decoration: none}
 <link href="css/main.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 <!--
+
 .style1 {
 	font-size: 10px;
 	font-weight: bold;
 }
 .style2 {font-size: 10px}
 body {
-	background-image: url(image/bg_2.gif);
+	font-family: 'Roboto', sans-serif !important; 
 }
 .style5 {
 	font-size: 14px;
@@ -55,6 +56,9 @@ body {
 </table>
 
 </center>
-</body>
+
+<script src="js/jquery.min.js"></script>
+<script src="js/pages.js"></script>
+<script src="js/jquery.min.js"></script><script src="js/pages.js"></script></body>
 
 </html>

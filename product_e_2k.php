@@ -10,9 +10,9 @@
 <link rel="shortcut icon" href="image/tel.ico" type="image/png" />
 <style type="text/css">
 <!--
-{font-family: Verdana, Arial, Helvetica}
+
 td {
-	font:8.5pt Verdana;
+	
 	white-space:nowrap;
 	line-height: 150%;
 }
@@ -46,10 +46,10 @@ window.open = SymWinOpen;
 <link href="css/main.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 <!--
-.style5 {font-family: Arial, Helvetica, sans-serif}
-.style11 {font-size: 10px; font-family: Arial, Helvetica, sans-serif; }
+.style5 
+.style11 {font-size: 10px; font-family: 'Roboto', sans-serif !important; }
 body {
-	background-image: url(image/bg_2.gif);
+	
 }
 .style12 {font-size: 12px}
 
@@ -80,6 +80,6 @@ table[width="170"] a, table[style="width:170px"] a{
 </table>
 
 </center>
-</body>
+<script src="js/jquery.min.js"></script><script src="js/pages.js"></script></body>
 
 </html>

@@ -35,7 +35,7 @@ window.open = SymWinOpen;
 <!--
 .style3 {color: #FF0000}
 body {
-	background-image: url(image/bg_2.gif);
+	
 }
 
 table[width="170"] a, table[style="width:170px"]{
@@ -64,6 +64,6 @@ table[width="170"] a, table[style="width:170px"]{
 </table>
 
 </center>
-</body>
+<script src="js/jquery.min.js"></script><script src="js/pages.js"></script></body>
 
 </html>

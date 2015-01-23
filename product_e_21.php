@@ -10,7 +10,7 @@
 <link rel="shortcut icon" href="image/tel.ico" type="image/png" />
 <style type="text/css">
 <!--
-{font-family: Verdana, Arial, Helvetica}
+
 a:link {font:Verdana; color:#ffffff; text-decoration: none}
 a:hover {font:Verdana; color:#ffffff; text-decoration: none}
 a:visited {font:Verdana; color:#ffffff; text-decoration: none}
@@ -80,6 +80,6 @@ table[width="170"] a, table[style="width:170px"] a, li a{
 </table>
 
 </center>
-</body>
+<script src="js/jquery.min.js"></script><script src="js/pages.js"></script></body>
 
 </html>

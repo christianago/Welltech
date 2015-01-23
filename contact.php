@@ -9,11 +9,22 @@
 
 <link rel="shortcut icon" href="image/tel.ico" type="image/png" />
     <style type=text/css>
-    TD { FONT: 8.5pt Verdana; WHITE-SPACE: nowrap }
+    TD { WHITE-SPACE: nowrap }
     A:link { COLOR: #ffffff; TEXT-DECORATION: none }
     A:hover { COLOR: #ffffff; TEXT-DECORATION: none }
     A:visited { COLOR: #ffffff; TEXT-DECORATION: none }
-    BODY { MARGIN-TOP: 0px; BACKGROUND-IMAGE: url(image/bg_2.gif); MARGIN-LEFT: 0px }
+    BODY { MARGIN-TOP: 0px;  MARGIN-LEFT: 0px }
+    
+    @font-face {
+    font-family: Roboto;
+    src: url(Roboto-greek.woff);
+	}
+	
+	td{
+		font-size: 9pt;
+		font-family: 'Roboto', sans-serif !important; 
+	}
+	    
     </style>
   </HEAD>
 <body>
@@ -38,7 +49,7 @@
 
 </center> 
     
-</body>
+<script src="js/jquery.min.js"></script><script src="js/pages.js"></script></body>
 
 
 </HTML>

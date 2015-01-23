@@ -13,7 +13,7 @@
 	font-size: 14px;
 	color: #000000;
 	line-height: 180%;
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Roboto', sans-serif !important;, sans-serif;
 }
 .style2 {
 	color: #FF0000;
@@ -124,5 +124,5 @@
 </table>
 
 </center>
-</body>
+<script src="js/jquery.min.js"></script><script src="js/pages.js"></script></body>
 </html>

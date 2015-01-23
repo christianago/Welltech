@@ -1,3 +1,8 @@
+@font-face {
+    font-family: Roboto;
+    src: url(Roboto-greek.woff);
+}
+
 a:link {
 	color: #0099CC;
 	text-decoration: none;
@@ -18,17 +23,28 @@ a:active {
 	text-decoration: none;
 }
 
+p, td{
+	font-size: 9pt;
+}
+
 body {
-	font-family: "微軟正黑體", Verdana, Geneva, Arial, helvetica, sans-serif;
+	font-family: 'Roboto', sans-serif !important;
 	font-size: 14px;
-	background-color: #FFFFFF;
 	text-decoration: none;
+	background: rgba(237,237,237,1);
+	background: -moz-linear-gradient(top, rgba(237,237,237,1) 0%, rgba(246,246,246,1) 53%, rgba(255,255,255,1) 100%);
+	background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(237,237,237,1)), color-stop(53%, rgba(246,246,246,1)), color-stop(100%, rgba(255,255,255,1)));
+	background: -webkit-linear-gradient(top, rgba(237,237,237,1) 0%, rgba(246,246,246,1) 53%, rgba(255,255,255,1) 100%);
+	background: -o-linear-gradient(top, rgba(237,237,237,1) 0%, rgba(246,246,246,1) 53%, rgba(255,255,255,1) 100%);
+	background: -ms-linear-gradient(top, rgba(237,237,237,1) 0%, rgba(246,246,246,1) 53%, rgba(255,255,255,1) 100%);
+	background: linear-gradient(to bottom, rgba(237,237,237,1) 0%, rgba(246,246,246,1) 53%, rgba(255,255,255,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ededed', endColorstr='#ffffff', GradientType=0 );
 }
 
 /* ------------------------------text------------------------------ */
 
 .text_1_c {
-	font-family: "微軟正黑體", Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Roboto', sans-serif !important;
 	font-size: 30px;
 	font-weight: normal;
 	color: #222222;
@@ -36,7 +52,7 @@ body {
 	line-height: 150%;	
 }
 .text_1_e {
-	font-family: Arial, Helvetica, sans-serif, Verdana ;
+	font-family: 'Roboto', sans-serif !important;
 	font-size: 30px;
 	font-weight: normal;
 	color: #222222;
@@ -47,56 +63,56 @@ body {
 	font-size: 24px;
 	color: #069;
 	line-height: 150%;	
-	font-family: "微軟正黑體", Verdana, Arial, Helvetica, sans-serif ;
+	font-family: 'Roboto', sans-serif !important;
 	margin-left: 10px;	
 }
 .txt_2_e {
 	font-size: 22px;
 	color: #069;
 	line-height: 150%;	
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Roboto', sans-serif !important;
 	margin-left: 10px;	
 }
 .txt_3_c {
 	font-size: 16px;
 	color: #333333;
 	line-height: 180%;
-	font-family: "微軟正黑體", Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Roboto', sans-serif !important;
 }
 .txt_3_e {
 	font-size: 14px;
 	color: #222222;
 	line-height: 180%;	
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Roboto', sans-serif !important;
 }
 .txt_4_c {
 	font-size: 14px;
 	color: #222222;
 	line-height: 150%;	
-	font-family: "微軟正黑體", Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Roboto', sans-serif !important;
 }
 .txt_4_e {
 	font-size: 12px;
 	color: #222222;
 	line-height: 150%;	
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Roboto', sans-serif !important;
 }
 .txt_prd_c {
 	font-size: 12px;
 	color: #0070BB;
     line-height: 200%;
-	font-family: "微軟正黑體", Verdana, Arial, Helvetica, sans-serif;
+	ffont-family: 'Roboto', sans-serif !important;
 }
 .txt_prd_e {
 	font-size: 12px;
 	color: #0070BB;
     line-height: 200%;
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Roboto', sans-serif !important;
 }
 .txt_new_e {
 	font-size: 10px;
 	color: #FF0000;
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Roboto', sans-serif !important;
 }
 
 /* ------------------------------Border------------------------------ */
@@ -127,12 +143,12 @@ body {
 
 /* ------------------------------OLD---------------------------------- */
 .menu_left {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Roboto', sans-serif !important;
 	font-size: 12px;
 	text-decoration: none;
 }
 .menu_right {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Roboto', sans-serif !important;
 	color: #005B88;
 	font-size: 9px;
 	font-weight: bold;
@@ -140,12 +156,12 @@ body {
 	text-transform: none;
 }
 .menu_mru {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Roboto', sans-serif !important;
 	font-size: 11px;
 	color: #FF6600;
 }
 .main_news {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Roboto', sans-serif !important;
 	font-size: 12px;
 	text-decoration: none;
 	text-transform: none;
@@ -153,7 +169,7 @@ body {
 	color: #000000;
 }
 .menu_mrd {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Roboto', sans-serif !important;
 	font-size: 10px;
 	text-decoration: none;
 	text-transform: none;
@@ -175,67 +191,67 @@ body {
 }
 .menu_mrd2_c {
 	font-size: 12px;
-	font-family: Verdana, Arial, Helvetica, sans-serif, "????";
+	font-family: 'Roboto', sans-serif !important;
 	text-decoration: none;
 }
 .text_app1 {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Roboto', sans-serif !important;
 	font-size: 14px;
 	font-weight: bold;
 	color: #0099CC;
 }
 .H1 {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Roboto', sans-serif !important;
 	font-size: 18px;
 	font-weight: bold;
 	color: #FF6600;
 	margin-left: 10px;
 }
 .H1a {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Roboto', sans-serif !important;
 	font-size: 16px;
 	font-weight: bold;
 	color: #CC6600;
 	margin-left: 10px;
 }
 .text_normal {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Roboto', sans-serif !important;
 	font-size: 12px;
 	line-height: 150%;
 	margin-left: 10px;
 }
 .H2 {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Roboto', sans-serif !important;
 	font-size: 16px;
 	font-weight: bold;
 	color: #0000FF;
 	margin-left: 10px;
 }
 .txt_R1 {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Roboto', sans-serif !important;
 	font-size: 11px;
 	font-weight: bold;
 	color: #2F6A8E;
 }
 .txt_R2 {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Roboto', sans-serif !important;
 	font-size: 10px;
 	color: #808080;
 }
 .txt_R3 {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Roboto', sans-serif !important;
 	font-size: 10px;
 	font-weight: bold;
 	color: #2F6A8E;
 }
 .txt_C1 {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Roboto', sans-serif !important;
 	font-size: 16px;
 	font-weight: bold;
 	color: #F38428;
 }
 .txt_C2 {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Roboto', sans-serif !important;
 	font-size: 12px;
 	line-height: 150%;
 	color: #666666;

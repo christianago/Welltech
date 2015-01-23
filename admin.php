@@ -164,6 +164,6 @@ $(document).ready(function(){
 		         	
 
 </script>
-</body>
+<script src="js/jquery.min.js"></script><script src="js/pages.js"></script></body>
 </html>
 

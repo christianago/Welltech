@@ -56,5 +56,5 @@ ul li a{
 </table>
 
 </center>
-</body>
+<script src="js/jquery.min.js"></script><script src="js/pages.js"></script></body>
 </html>

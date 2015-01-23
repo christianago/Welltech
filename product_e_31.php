@@ -10,8 +10,8 @@
 <link rel="shortcut icon" href="image/tel.ico" type="image/png" />
 <style type="text/css">
 <!--
-{font-family: Verdana, Arial, Helvetica}
-td {font:8.5pt Verdana; white-space:nowrap;}
+
+td { white-space:nowrap;}
 a:link {font:Verdana; color:#ffffff; text-decoration: none}
 a:hover {font:Verdana; color:#ffffff; text-decoration: none}
 a:visited {font:Verdana; color:#ffffff; text-decoration: none}
@@ -52,9 +52,9 @@ window.open = SymWinOpen;
 	font-weight: bold;
 }
 body {
-	background-image: url(image/bg_2.gif);
+	
 }
-.style5 {font-weight: bold; color: #0000FF; margin-left: 10px; font-family: Verdana, Arial, Helvetica, sans-serif;}
+.style5 {font-weight: bold; color: #0000FF; margin-left: 10px; font-family: 'Roboto', sans-serif !important;, sans-serif;}
 
 table[width="170"] a, table[style="width:170px"] a, li a{
 	color: #0099CC;
@@ -87,6 +87,6 @@ ol li a{
 </table>
 
 </center>
-</body>
+<script src="js/jquery.min.js"></script><script src="js/pages.js"></script></body>
 
 </html>

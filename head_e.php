@@ -55,7 +55,16 @@ body {
 <link href="css/link.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 <!--
-.style8 {font-size: 9px; color: #FFFFFF; text-decoration: none; font-family: Verdana, Arial, Helvetica, sans-serif;}
+@font-face {
+    font-family: Roboto;
+    src: url(Roboto-greek.woff);
+}
+
+a{
+	font-family: 'Roboto', sans-serif !important; 
+}
+
+.style8 {font-size: 9px; color: #FFFFFF; text-decoration: none; font-family: 'Roboto', sans-serif !important; }
 .style9 {font-size: 11px}
 
 .menu_e{
@@ -85,7 +94,7 @@ body {
 </table>   
 
 
-<table border="0" width="760" cellspacing="0" cellpadding="0" height="22" background="image/bg_1.gif">
+<table border="0" width="760" cellspacing="0" cellpadding="0" height="22">
   <tr>
     <td width="760" background="image/menu_bar.gif" bgcolor="#284987">
       <p align="center" style="margin-left: 25">

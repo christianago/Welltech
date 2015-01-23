@@ -1,3 +1,8 @@
+@font-face {
+    font-family: Roboto;
+    src: url(Roboto-greek.woff);
+}
+
 a:link {
 	color: #FFFFFF;
 }
@@ -47,7 +52,7 @@ a.nav:hover {
 }
 
 a.menu {
-	font-family: arial, helvetica, sans-serif;
+	font-family: 'Roboto', sans-serif !important;
 	font-weight: bold;
 	text-decoration: underline;
 }
@@ -57,7 +62,7 @@ a.menu:hover {
 	font-weight: bold;
 	text-decoration: underline;
 	letter-spacing: 1px;
-	}
+}
 
 a.box {
 	padding: 3px;
@@ -65,7 +70,7 @@ a.box {
 	text-decoration: none;
 	border: medium solid #CCCCCC;
 	color: #000000;
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Roboto', sans-serif !important;
 }
 
 a.box:hover {
@@ -75,7 +80,7 @@ a.box:hover {
 	background-color: #666666;
 	border: medium solid #3366FF;
 	color: #FFFFFF;
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Roboto', sans-serif !important;
 }
 .menu_cs {
 	font-size: 12px;
@@ -90,7 +95,7 @@ a.box:hover {
 	font-weight: bold;
 }
 .menu_e {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Roboto', sans-serif !important;
 	font-size: 11px;
 	font-weight: bold;
 	color: #FFFFFF;

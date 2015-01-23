@@ -10,8 +10,8 @@
 <link rel="shortcut icon" href="image/tel.ico" type="image/png" />
 <style type="text/css">
 <!--
-{font-family: Verdana, Arial, Helvetica}
-td {font:8.5pt Verdana; white-space:nowrap;}
+
+td { white-space:nowrap;}
 a:link {font:Verdana; color:#ffffff; text-decoration: none}
 a:hover {font:Verdana; color:#ffffff; text-decoration: none}
 a:visited {font:Verdana; color:#ffffff; text-decoration: none}
@@ -30,7 +30,7 @@ a:visited {font:Verdana; color:#ffffff; text-decoration: none}
 .style4 {font-size: 12px}
 .style5 {color: #FF0000}
 body {
-	background-image: url(image/bg_2.gif);
+	
 }
 
 table[width="170"] a, table[style="width:170px"] a, div a strong{
@@ -60,6 +60,6 @@ table[width="170"] a, table[style="width:170px"] a, div a strong{
 </table>
 
 </center>
-</body>
+<script src="js/jquery.min.js"></script><script src="js/pages.js"></script></body>
 
 </html>
